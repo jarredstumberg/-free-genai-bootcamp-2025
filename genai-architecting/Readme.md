@@ -19,3 +19,10 @@ to server the total student capacity, not to exceed 300 people.
 
 Copyrighted materials handling is a concern so we plan on storing both free, open-source, and premium materials in our 
 database for RAG access. 
+
+## Technical Considerations
+
+We're considering IBM Granite LLM because it's a truly open-source model with training data that is traceable so we 
+can avoid copyright issues and champion transparency. 
+
+https://huggingface.co/ibm-granite
